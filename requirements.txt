@@ -1,0 +1,14 @@
+selenium
+webdriver-manager
+pyaudio
+SpeechRecognition
+groq
+pydub
+google-auth
+google-auth-oauthlib
+google-api-python-client
+django
+python-dotenv
+selenium
+webdriver-manager
+speechrecognition
