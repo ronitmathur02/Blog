@@ -1,0 +1,51 @@
+# Custom directories and files
+venv/
+chrome_profile*/
+chrome-profile*/
+config.py
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Audio/Video files from testing
+*.webm
+*.wav
+*.mp3
+
+# Log files
+*.log
+
+# Debug files
+participants_panel.png
+*_waveform.png
+*_spectrogram.png
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
